@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Asset Manager</string>
+    <string name="usernameLabel">Username:</string>
+    <string name="passwordLabel">Password:</string>
+    <string name="loginButton">Log in</string>
+    <color name="background">#339a99</color>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
